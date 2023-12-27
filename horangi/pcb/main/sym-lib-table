@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/library/power.kicad_sym")(options "")(descr ""))
+  (lib (name "horangi")(type "KiCad")(uri "${KIPRJMOD}/library/horangi.kicad_sym")(options "")(descr ""))
+)
