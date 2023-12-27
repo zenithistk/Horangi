@@ -8,7 +8,7 @@ Additionally, the Horangi features a very unique thumb cluster. It can be attach
 ![horangi_keymap](/images/horangi_default_keymap.jpg)
 
 ## Build Guide (WIP)
-* [Build Guide](/BUILDGUIDE.md)
+* [Build Guide](BUILDGUIDE.md)
 
 ## Firmware
 Only qmk firmware is available.
