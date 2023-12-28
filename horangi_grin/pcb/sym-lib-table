@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "dokkaebi")(type "KiCad")(uri "${KIPRJMOD}/library/dokkaebi.kicad_sym")(options "")(descr ""))
+  (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/library/power.kicad_sym")(options "")(descr ""))
+)

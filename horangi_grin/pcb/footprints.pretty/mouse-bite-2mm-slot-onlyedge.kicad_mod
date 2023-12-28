@@ -1,0 +1,15 @@
+(footprint "mouse-bite-2mm-slot-onlyedge" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 551DB891)
+  (attr through_hole)
+  (fp_text reference "mouse-bite-2mm-slot" (at 0 -2) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.2)))
+    (tstamp fc74d2cc-2fd8-42e1-800c-f3564e0cfc17)
+  )
+  (fp_text value "VAL**" (at 0 2.1) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.2)))
+    (tstamp 60bcdf3e-0987-4469-851f-e01cdbd7c402)
+  )
+  (fp_arc (start 2 1) (mid 1 0) (end 2 -1) (layer "Edge.Cuts") (width 0.1) (tstamp 8ab4475a-f4d2-43b7-b4fb-b57e95bbcef6))
+  (fp_arc (start -2 -1) (mid -1 0) (end -2 1) (layer "Edge.Cuts") (width 0.1) (tstamp df272f60-9bfe-4451-969f-5f356dafee90))
+)

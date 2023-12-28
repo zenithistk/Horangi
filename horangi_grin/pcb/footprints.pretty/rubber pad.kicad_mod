@@ -1,0 +1,18 @@
+(footprint "rubber pad" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at -7 4.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp fdcb8599-edb0-4bcb-9384-f04b0f65f730)
+  )
+  (fp_text value "rubber pad" (at -7 6 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e1bbdafd-5073-44de-afe2-b9938aa77fb2)
+  )
+  (fp_text user "${REFERENCE}" (at -7 7.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a60d070e-d6f5-441a-9dfe-75114655a995)
+  )
+  (fp_circle (center 0 0) (end 2.75 0) (layer "F.SilkS") (width 3.5) (fill none) (tstamp 14b869e3-cbcf-45f2-b4c3-69884100e91a))
+)

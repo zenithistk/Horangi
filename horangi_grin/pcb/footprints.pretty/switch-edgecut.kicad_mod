@@ -1,0 +1,14 @@
+(footprint "switch-edgecut" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d9a80ea9-ef6e-4bcc-91e1-13136f272c91)
+  )
+  (fp_text value "switch-edgecut" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8d286236-66d3-4fd5-93da-ea1850024423)
+  )
+  (fp_rect (start -7 -7) (end 7 7) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 35026c19-7dbf-4264-b93f-1bc6e4165938))
+)
