@@ -17,6 +17,8 @@
 | Silicone Rubber Bumper  | 8mmx2mm | 4     | $0.02 each | [Aliexpress](https://www.aliprice.com/s?id=1005004068119765_18&u=&c=GzElGWnvfnh7JDjLFWhKuwBwuH&mv=3) |
 | Mechanical keyboard aluminum cone feet |  | 2pcs*2     | $9 | [Aliexpress](https://www.aliprice.com/s?id=1005003651105955_18&u=&c=STk20aIrxybL5QZVFBu0hwKupp&mv=3) |
 
+It costs about $120 total including keycaps.
+
 ## Build Guide (WIP)
 
 
