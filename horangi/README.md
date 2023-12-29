@@ -4,6 +4,13 @@ The 'Horangi' keyboard is an ergonomic, symmetrical split keyboard with a built-
 
 Additionally, the Horangi features a very unique thumb cluster. It can be attached or detached as needed, and thanks to this special thumb cluster, it allows for the use of arrow keys, which are usually hard to find on typical split keyboards.
 
+* 66-key layout, curved row stagger, arrow keys.
+* rp2040-zero MCU
+* Gateron low profile hot-swap
+* Reversible pcb design
+* Detachable thumb cluster
+* Integrated trackball
+
 ## Keymap
 ![horangi_keymap](images/horangi_default_keymap.jpg)
 
