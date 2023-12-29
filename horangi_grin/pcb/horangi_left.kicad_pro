@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 8.0,
-          "height": 8.0,
-          "width": 8.0
+          "drill": 7.5,
+          "height": 7.5,
+          "width": 7.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -393,7 +393,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "dokkaebi_left.kicad_pro",
+    "filename": "horangi_left.kicad_pro",
     "version": 1
   },
   "net_settings": {
