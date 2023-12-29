@@ -2,6 +2,8 @@
 
 | Part          | Type             | Amount | Cost      | Link                                 |
 | :-------------| :--------------- | :----- | :---------| :----------------------------------- |
+| PCB           | Main             | 2      | $1.94 each[^1] | [Gerber](https://github.com/zenithistk/Horangi/tree/main/horangi/GERBER) |
+| PCB           | Thumb cluster    | 2      | $0.4 each[^2] | [Gerber](https://github.com/zenithistk/Horangi/tree/main/horangi/GERBER) |
 | MCU           | rp2040-zero      | 2      | $3.35 each | [Aliexpress](https://www.aliprice.com/s?id=1005003823256706_18&u=&c=sYrnLeA6cygvL8dYFBu0WWWhFu&mv=3) |
 | Diodes        | SOD-123 1N4148   | 66     | $1.5      | [Aliexpress](https://www.aliprice.com/s?id=4000685043735_18&u=&c=sYrnLeA6cygvL8dYFBu0WWWhFu&mv=3) |
 | TRRS Jack     | PJ-320A          | 2      | $1.5      | [Aliexpress](https://www.aliprice.com/s?id=4000661212458_18&u=&c=sYrnLeA6cygvL8dYFBu0WWWhFu&mv=3) |
@@ -18,3 +20,7 @@
 ### Optional(trackball)
 
 ## Build Guide (WIP)
+
+
+[^1]: When printing at JLCPCB, it costs $9.7 based on the minimum order quantity of 5 sheets, so the price per piece is approximately $1.94.
+[^2]: When printing at JLCPCB, it costs $2 based on the minimum order quantity of 5 sheets, so the price per piece is approximately $0.4.
